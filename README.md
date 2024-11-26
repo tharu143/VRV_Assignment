@@ -20,4 +20,4 @@ To run this project locally, follow these steps:
 ### Setup:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rbac-ui.git
+   git clone https://github.com/tharu143/VRV_Assignment.git
